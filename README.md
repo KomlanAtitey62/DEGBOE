@@ -5,7 +5,7 @@
  
 
 # A quick look to the DEGBOE computational framework
-![](graphic/ Fig_1.png)
+![](graphic/Fig_1.png)
 
 
 ## (A) Population of cellular dynamics for genetic mutation.
