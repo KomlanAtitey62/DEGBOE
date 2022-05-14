@@ -1,20 +1,20 @@
 # DEGBOE: Discrete time Evolution modeling of Gene mutation through Bayesian inference using qualitative Observation of mutation Events
 
  
-** Many direct and indirect methods have been developed to help estimate occurrences and progression of somatic mutations in various organisms. The main difficulty in estimating rates of mutation involves the fact that DNA changes are extremely rare events which can only be detected on a background of identical DNA. On the Basis of the probabilistic graphical model of Bayesian network, this work presents a computational framework which describes the variability in the evolution of the lung cancer gene mutations as a long-term dependent process. The relation between a targeted gene mutation with other gene mutations is examined.**
+**Many direct and indirect methods have been developed to help estimate occurrences and progression of somatic mutations in various organisms. The main difficulty in estimating rates of mutation involves the fact that DNA changes are extremely rare events which can only be detected on a background of identical DNA. On the Basis of the probabilistic graphical model of Bayesian network, this work presents a computational framework which describes the variability in the evolution of the lung cancer gene mutations as a long-term dependent process. The relation between a targeted gene mutation with other gene mutations is examined.**
 
 ## (A) Population of cellular dynamics for genetic mutation.
 
-** s1:** Rapid growth to tumor
+**s1:** Rapid growth to tumor
 The mutation spreads through the population and replaces the resistant (normal) cells. 
 
-** s2:** An additional driver mutation increases the population of mutated cells, which coexist with normal cells. 
+**s2:** An additional driver mutation increases the population of mutated cells, which coexist with normal cells. 
 
-** s3:** Equilibrium of cell mutation with no novel cell mutation. At this stage, neither the normal cell nor the mutated cell populations vary. 
+**s3:** Equilibrium of cell mutation with no novel cell mutation. At this stage, neither the normal cell nor the mutated cell populations vary. 
 
-** s4:** Decreasing mutant cell population.
+**s4:** Decreasing mutant cell population.
 
- ** s5:** Mutants go extinct. When the delay before the emergence of the next mutant is long, the population may attain one of the outcomes presented at time T4 (**s1**, **s2**, **s3**, **s4**, and **s5**). 
+ **s5:** Mutants go extinct. When the delay before the emergence of the next mutant is long, the population may attain one of the outcomes presented at time T4 (**s1**, **s2**, **s3**, **s4**, and **s5**). 
 
 ## (B) Preprocessing lung cancer mutation binary dataset. 
 
