@@ -35,4 +35,3 @@ Global hidden variables φ={φ_m }_(m=1)^(M-1). It portrays the presence or abse
 **(1)** Use R code for lung cancer binary dataset preprocessing
 **(2)** Use R for DEGBOE implementation
 **(3)** Use Matlab for DEGBOE implementation
-
